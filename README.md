@@ -60,9 +60,16 @@
 <h2>حذف الحساب</h2>
 <p>إذا كنت ترغب في حذف حسابك من التطبيق، يمكنك التواصل معنا عبر الطرق التالية:</p>
 <ul>
-  <li><strong>رقم الهاتف:</strong> +46760842088</li>
-  <li><strong>البريد الإلكتروني:</strong> mohamed@m.com</li>
+  <li>
+    <strong>رقم الهاتف:</strong> 
+    <a href="tel:+46760842088">+46760842088</a>
+  </li>
+  <li>
+    <strong>البريد الإلكتروني:</strong> 
+    <a href="mailto:mohamed@m.com">mohamed@m.com</a>
+  </li>
 </ul>
+
 
 <hr>
 
